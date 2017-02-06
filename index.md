@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Interesse an einem Hackerspace in Bayreuth?
+> Ein Hackerspace ist ein Freiraum für den kreativen Umgang mit Technik. Hier treffen sich Menschen, die sich über Technik, digitale Kunst und freies Wissen austauschen und zusammen „hacken“, also gemeinsam die Möglichkeiten und Grenzen von Systemen erforschen und kreativ umdefinieren. Dabei ist es egal, ob diese Systeme technischer, sozialer oder politischer Natur sind."
+> - backspace
 
-You can use the [editor on GitHub](https://github.com/HackerspaceBT/HackerspaceBT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen. Aktuell treffen wir uns [monatlich](#treffen), da wir bis jetzt noch wenige Hacker sind. Zukünftig wollen wir, um mehr Leute anzuziehen, Workshops halten. Dies wird vorraussichtlich ab April geschehen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Kontakt
 
-### Markdown
+- In Person: Bei unseren [Treffen](#treffen)
+- IRC: #hackerspace-bayreuth auf [Freenode](irc://irc.freenode.net)
+- Mail: Benutzer a auf der Domain 0au.de
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Treffen
+Am zweiten Montag jedes Monats, um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für Fachlehrer (Google Maps Link)](https://www.google.de/maps/place/Geschwister-Scholl-Platz+3,+95445+Bayreuth/@49.94829,11.5493186,17z/data=!3m1!4b1!4m5!3m4!1s0x47a1a2a5685d4085:0x82807222115f18bf!8m2!3d49.94829!4d11.55062) am Geschwister-Scholl-Platz.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackerspaceBT/HackerspaceBT.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Wegbeschreibung
+Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch, in den zweiten Stock. Dort wieder rechts rum. Vor den Türen, die den Gang trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
