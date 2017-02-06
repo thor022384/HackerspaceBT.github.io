@@ -1,5 +1,4 @@
 ---
-layout: post
 category: protokoll
 title: "Treffen: Montag, 2017-01-30"
 date: 2017-01-30
