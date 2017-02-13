@@ -23,10 +23,10 @@ Dies wird vorraussichtlich ab April geschehen.
 - Mail: Benutzer a auf der Domain 0au.de
 - Mailingliste zur Kommunikation mit mehreren Hackern: hackerspace-bayreuth auf
   lists.0au.de. Um eingetragen zu werden, schreibt eine Mail mit beliebigem
-  Betreff und Inhalt an hackerspace-bayreuth+subscribe auf lists.0au.de. 
+  Betreff und Inhalt an [mailto://hackerspace-bayreuth+subscribe@lists.0au.de]. 
 
 ## Treffen
-Am zweiten Montag jedes Monats, um 18 Uhr im [iLab](#wegbeschreibung) des
+Am ersten Montag jedes Monats, um 18 Uhr im [iLab](#wegbeschreibung) des
 [Staatsinstituts für Fachlehrer (Google Maps Link)][map] am
 Geschwister-Scholl-Platz.
 
