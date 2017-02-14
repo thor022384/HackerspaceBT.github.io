@@ -16,4 +16,10 @@ date: 2017-02-13
     - Blinkenlights
     - WS2812
     - Servos
-  - Arduino Gamepad
+  - VHDL
+  - Die alten Themen:
+    - Arduino Gamepad
+    - GPG/Crypto Party
+    - Python + pygame
+    - LaTeX
+    - git
