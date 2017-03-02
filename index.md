@@ -20,11 +20,11 @@ Dies wird vorraussichtlich ab April geschehen.
 
 - In Person: Bei unseren [Treffen](#treffen)
 - IRC: #hackerspace-bayreuth auf [Freenode](irc://irc.freenode.net)
-- Mail: Benutzer a auf der Domain 0au.de
+- Mail: Benutzer kontakt auf der Domain imaginaerraum.de
 - Mailingliste zur Kommunikation mit mehreren Hackern: hackerspace-bayreuth auf
-  lists.0au.de. Um eingetragen zu werden, schreibt eine Mail mit beliebigem
-  Betreff und Inhalt an
-  [hackerspace-bayreuth+subscribe@lists.0au.de](mailto://hackerspace-bayreuth+subscribe@lists.0au.de). 
+  lists.imaginaerraum.de. Um eingetragen zu werden, schreibt eine Mail mit
+  beliebigem Betreff und Inhalt an
+  [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto://hackerspace-bayreuth+subscribe@lists.imaginaerraum.de). 
 
 ## Treffen
 Am ersten Montag jedes Monats, um 18 Uhr im [iLab](#wegbeschreibung) des
