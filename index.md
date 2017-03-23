@@ -23,7 +23,7 @@ Workshops (näheres dazu im [Wiki][wiki]).
 - Mailingliste zur Kommunikation mit mehreren Hackern: hackerspace-bayreuth auf
   lists.imaginaerraum.de. Um eingetragen zu werden, schreibt eine Mail mit
   beliebigem Betreff und Inhalt an
-  [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto://hackerspace-bayreuth+subscribe@lists.imaginaerraum.de). 
+  [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto:hackerspace-bayreuth+subscribe@lists.imaginaerraum.de). 
 
 ## Treffen
 Montags um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für
