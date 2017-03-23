@@ -12,9 +12,8 @@ layout: default
 > - backspace
 
 Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen.
-Aktuell treffen wir uns [monatlich](#treffen), da wir bis jetzt noch wenige
-Hacker sind. Zukünftig wollen wir, um mehr Leute anzuziehen, Workshops halten.
-Dies wird vorraussichtlich ab April geschehen.
+Aktuell [treffen](#treffen) wir uns wöchentlich und halten alle paar Wochen
+Workshops (näheres dazu im [Wiki][wiki]).
 
 ## Kontakt
 
@@ -27,14 +26,15 @@ Dies wird vorraussichtlich ab April geschehen.
   [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto://hackerspace-bayreuth+subscribe@lists.imaginaerraum.de). 
 
 ## Treffen
-Am ersten Montag jedes Monats, um 18 Uhr im [iLab](#wegbeschreibung) des
-[Staatsinstituts für Fachlehrer (Google Maps Link)][map] am
-Geschwister-Scholl-Platz.
+Montags um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für
+Fachlehrer (Google Maps Link)][map] am Geschwister-Scholl-Platz. Treffen finden
+mindestens am ersten Montag des Monats statt.
 
 Weitere Aktionen (z.B. Workshops) sind im Kalender in unserem [Wiki][wiki] zu
 sehen.
 
-Wir haben eine [Sammlung von Protokollen][protokolle] vergangener Treffen.
+Falls im Wiki für einen Montag noch nichts steht, einfach mal nachfragen, ob
+jemand kommt. :)
 
 ## Wegbeschreibung
 Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
