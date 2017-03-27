@@ -30,11 +30,10 @@ Montags um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für
 Fachlehrer (Google Maps Link)][map] am Geschwister-Scholl-Platz. Treffen finden
 mindestens am ersten Montag des Monats statt.
 
-Weitere Aktionen (z.B. Workshops) sind im Kalender in unserem [Wiki][wiki] zu
-sehen.
-
-Falls im Wiki für einen Montag noch nichts steht, einfach mal nachfragen, ob
+Falls im Kalender für einen Montag noch nichts steht, einfach mal nachfragen, ob
 jemand kommt. :)
+
+{% include calendar.md %}
 
 ## Wegbeschreibung
 Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
