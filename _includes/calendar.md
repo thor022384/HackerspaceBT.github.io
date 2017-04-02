@@ -1,6 +1,6 @@
 Events der nächsten 31 Tage:
 
-- GPG Keysigning Party
+- GPG Key-Signing Party ([Info](https://imaginaerraum.de/wiki/Key-Signing_Party))
   - Montag, 03.04.2017, 18:00 Uhr bis 20:00 Uhr
   - Ort: iLab
 - imaginärraum Treffen
