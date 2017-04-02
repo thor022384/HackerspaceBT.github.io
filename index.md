@@ -34,7 +34,7 @@ für einen Montag noch nichts geplant ist: Einfach mal nachfragen, ob noch
 jemand kommen möchte :)
 
 ## Events
-Auch über einen öffentlichen [ICS Kalender](icscal) erreichbar.
+Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
 {% include calendar.md %}
 
 ## Wegbeschreibung
