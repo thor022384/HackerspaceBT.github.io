@@ -1,8 +1,5 @@
 Events der nächsten 31 Tage:
 
-- Crypto Challenge ([Info](https://imaginaerraum.de/wiki/Crypto_Challenge))
-  - Montag, 10.04.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
 - imaginärraum Treffen
   - Montag, 10.04.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
