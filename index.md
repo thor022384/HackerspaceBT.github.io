@@ -42,7 +42,7 @@ Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
 in den zweiten Stock. Dort wieder rechts rum. Vor den Türen, die den Gang
 trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
 
-[icscal]: https://cal.imaginaerraum.de/davical/public.php/shared/imaginaerraum
+[icscal]: https://cal.imaginaerraum.de/davical/public.php/Users/imaginaerraum
 [map]: https://www.google.de/maps/place/Geschwister-Scholl-Platz+3,+95445+Bayreuth/@49.94829,11.5493186,17z/data=!3m1!4b1!4m5!3m4!1s0x47a1a2a5685d4085:0x82807222115f18bf!8m2!3d49.94829!4d11.55062
 [protokolle]: {{ site.baseurl }}{% link protokolle.md %}
 [wiki]: https://imaginaerraum.de/wiki/
