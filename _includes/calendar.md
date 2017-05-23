@@ -1,10 +1,7 @@
 Events der nächsten 31 Tage:
 
-- Crypto Challenge ([Info](https://imaginaerraum.de/wiki/Crypto_Challenge))
-  - Montag, 22.05.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
-- imaginärraum Treffen
-  - Montag, 22.05.2017, 18:00 Uhr bis 23:00 Uhr
+- GPG Workshop ([Info](https://imaginaerraum.de/wiki/GPG_Workshop))
+  - Montag, 29.05.2017, 18:30 Uhr bis 20:30 Uhr
   - Ort: iLab
 - imaginärraum Treffen
   - Montag, 29.05.2017, 18:00 Uhr bis 23:00 Uhr
