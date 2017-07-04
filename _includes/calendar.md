@@ -1,8 +1,5 @@
 Events der nächsten 31 Tage:
 
-- imaginärraum Treffen
-  - Montag, 03.07.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
 - Android Workshop ([Info](https://imaginaerraum.de/wiki/Android_Workshop))
   - Montag, 10.07.2017, 18:30 Uhr bis 21:30 Uhr
 - imaginärraum Treffen
