@@ -1,17 +1,28 @@
 Events der nächsten 31 Tage:
 
-- imaginärraum Treffen
-  - Montag, 10.04.2017, 18:00 Uhr bis 23:00 Uhr
+- Crypto Challenge ([Info](https://imaginaerraum.de/wiki/Crypto_Challenge))
+  - Montag, 17.07.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
 - imaginärraum Treffen
-  - Montag, 17.04.2017, 18:00 Uhr bis 23:00 Uhr
+  - Montag, 17.07.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
+- imaginärraum Treffen
+  - Montag, 24.07.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
+- imaginärraum Treffen
+  - Montag, 31.07.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
+- GPG Key-Signing Party ([Info](https://imaginaerraum.de/wiki/Key-Signing_Party))
+  - Montag, 07.08.2017, 18:00 Uhr bis 20:00 Uhr
+  - Ort: iLab
+- GPG Key-Signing Party
+  - Montag, 07.08.2017, 18:00 Uhr bis 20:00 Uhr
+- imaginärraum Treffen
+  - Montag, 07.08.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
 - Crypto Challenge ([Info](https://imaginaerraum.de/wiki/Crypto_Challenge))
-  - Montag, 24.04.2017, 18:00 Uhr bis 23:00 Uhr
+  - Montag, 14.08.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
 - imaginärraum Treffen
-  - Montag, 24.04.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
-- imaginärraum Treffen
-  - Montag, 01.05.2017, 18:00 Uhr bis 23:00 Uhr
+  - Montag, 14.08.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
