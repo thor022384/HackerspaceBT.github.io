@@ -20,3 +20,6 @@ Events der nächsten 31 Tage:
 - imaginärraum Treffen
   - Montag, 14.08.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
+- imaginärraum Treffen
+  - Montag, 21.08.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
