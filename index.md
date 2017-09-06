@@ -12,7 +12,7 @@ layout: default
 > - backspace
 
 Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen.
-Aktuell [treffen](#treffen) wir uns wöchentlich und [planen eine Alpha](alpha),
+Aktuell [treffen](#treffen) wir uns wöchentlich und [planen eine Alpha][alpha],
 also ein Wochenende, auf dem wir verschiedene Workshops und Vorträge halten und
 den Besuchern zeigen möchten, warum wir einen Hackerspace brauchen. Die Alpha
 findet voraussichtlich am zweiten Novemberwochenende statt.
