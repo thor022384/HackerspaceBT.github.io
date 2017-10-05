@@ -32,14 +32,15 @@ findet voraussichtlich am zweiten Novemberwochenende statt.
 Montags um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für
 Fachlehrer (Google Maps Link)][map] am Geschwister-Scholl-Platz.
 
-## Events
-Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
-{% include calendar.md %}
-
 ## Wegbeschreibung
 Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
 in den zweiten Stock. Dort wieder rechts rum. Vor den Türen, die den Gang
 trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
+
+## Events
+Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
+{% include calendar.md %}
+
 
 [alpha]: https://imaginaerraum.de/wiki/Alpha_Planung
 [icscal]: https://cal.imaginaerraum.de/davical/public.php/Users/imaginaerraum
