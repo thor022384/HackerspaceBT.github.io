@@ -15,7 +15,8 @@ Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen.
 Aktuell [treffen](#treffen) wir uns wöchentlich und [planen eine Alpha][alpha],
 also ein Wochenende, auf dem wir verschiedene Workshops und Vorträge halten und
 den Besuchern zeigen möchten, warum wir einen Hackerspace brauchen. Die Alpha
-findet voraussichtlich am zweiten Novemberwochenende statt.
+findet am zweiten Novemberwochenende statt. Mehr Infos gibt es auf der
+verlinkten Seite.
 
 ## Kontakt
 
@@ -42,7 +43,7 @@ Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
 {% include calendar.md %}
 
 
-[alpha]: https://imaginaerraum.de/wiki/Alpha_Planung
+[alpha]: {% link _posts/2017-10-05-alpha.md %}
 [icscal]: https://cal.imaginaerraum.de/davical/public.php/Users/imaginaerraum
 [map]: https://www.google.de/maps/place/Geschwister-Scholl-Platz+3,+95445+Bayreuth/@49.94829,11.5493186,17z/data=!3m1!4b1!4m5!3m4!1s0x47a1a2a5685d4085:0x82807222115f18bf!8m2!3d49.94829!4d11.55062
 [wiki]: https://imaginaerraum.de/wiki/
