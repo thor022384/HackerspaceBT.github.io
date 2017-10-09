@@ -30,8 +30,9 @@ verlinkten Seite.
   Es gibt ein [Archiv][mailarchive].
 
 ## Treffen
-Montags um 18 Uhr im [iLab](#wegbeschreibung) des [Staatsinstituts für
-Fachlehrer (Google Maps Link)][map] am Geschwister-Scholl-Platz.
+Montags um 18 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
+Bayreuth, am Geschwister-Scholl-Platz 3, 95445 Bayreuth ([Staatsinstitut für
+Fachlehrer, Google Maps Link][map])
 
 ## Wegbeschreibung
 Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
