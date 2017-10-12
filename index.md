@@ -2,7 +2,7 @@
 title: "Hackerspace Bayreuth"
 layout: default
 ---
-# Interesse an einem Hackerspace in Bayreuth?
+## Interesse an einem Hackerspace in Bayreuth?
 > Ein Hackerspace ist ein Freiraum für den kreativen Umgang mit Technik. Hier
 > treffen sich Menschen, die sich über Technik, digitale Kunst und freies
 > Wissen austauschen und zusammen „hacken“, also gemeinsam die Möglichkeiten
