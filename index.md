@@ -12,11 +12,15 @@ layout: default
 > - backspace
 
 Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen.
-Aktuell [treffen](#treffen) wir uns wöchentlich und [planen eine Alpha][alpha],
-also ein Wochenende, auf dem wir verschiedene Workshops und Vorträge halten und
-den Besuchern zeigen möchten, warum wir einen Hackerspace brauchen. Die Alpha
-findet am zweiten Novemberwochenende statt. Mehr Infos gibt es auf der
-verlinkten Seite.
+Aktuell [treffen](#treffen) wir uns wöchentlich.
+
+## Alpha
+
+Im November halten wir eine [Alpha][alpha], also ein Wochenende, auf
+dem wir verschiedene Workshops und Vorträge halten und den Besuchern
+zeigen möchten, warum wir in Bayreuth einen Hackerspace brauchen. Die
+Alpha findet am zweiten Novemberwochenende statt. Mehr Infos gibt es
+auf der verlinkten Seite. Der Eintritt ist natürlich umsonst. :)
 
 ## Kontakt
 
