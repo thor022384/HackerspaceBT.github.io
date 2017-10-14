@@ -20,3 +20,6 @@ Events der nächsten 31 Tage:
 - Alpha Tag 2
   - Sonntag, 12.11.2017, 13:00 Uhr bis Montag, 13.11.2017, 00:00 Uhr
   - Ort: iLab
+- imaginärraum Treffen
+  - Montag, 13.11.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
