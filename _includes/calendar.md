@@ -1,11 +1,8 @@
 Events der nächsten 31 Tage:
 
-- imaginärraum Treffen
-  - Montag, 23.10.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
-- imaginärraum Treffen
-  - Montag, 30.10.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
+- Backspace Geburtstag 
+  - Montag, 30.10.2017, 18:30 Uhr bis Dienstag, 31.10.2017, 00:00 Uhr
+  - Ort: Backspace, Bamberg
 - Git Workshop ([Info](https://imaginaerraum.de/wiki/Git_Workshop))
   - Montag, 06.11.2017, 00:00 Uhr bis Dienstag, 07.11.2017, 00:00 Uhr
 - imaginärraum Treffen
@@ -22,4 +19,7 @@ Events der nächsten 31 Tage:
   - Ort: iLab
 - imaginärraum Treffen
   - Montag, 20.11.2017, 18:00 Uhr bis 23:00 Uhr
+  - Ort: iLab
+- imaginärraum Treffen
+  - Montag, 27.11.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
