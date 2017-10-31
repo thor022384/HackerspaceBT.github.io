@@ -1,8 +1,5 @@
 Events der nächsten 31 Tage:
 
-- Backspace Geburtstag 
-  - Montag, 30.10.2017, 18:30 Uhr bis Dienstag, 31.10.2017, 00:00 Uhr
-  - Ort: Backspace, Bamberg
 - Git Workshop ([Info](https://imaginaerraum.de/wiki/Git_Workshop))
   - Montag, 06.11.2017, 00:00 Uhr bis Dienstag, 07.11.2017, 00:00 Uhr
 - imaginärraum Treffen
