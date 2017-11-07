@@ -1,10 +1,5 @@
 Events der nächsten 31 Tage:
 
-- imaginärraum Treffen
-  - Montag, 06.11.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
-- Git Workshop ([Info](https://imaginaerraum.de/wiki/Git_Workshop))
-  - Montag, 06.11.2017, 19:00 Uhr bis 21:00 Uhr
 - Alpha Tag 1
   - Samstag, 11.11.2017, 13:00 Uhr bis Sonntag, 12.11.2017, 00:00 Uhr
   - Ort: iLab
