@@ -1,8 +1,5 @@
 Events der nächsten 31 Tage:
 
-- Alpha Tag 1
-  - Samstag, 11.11.2017, 13:00 Uhr bis Sonntag, 12.11.2017, 00:00 Uhr
-  - Ort: iLab
 - Alpha Tag 2
   - Sonntag, 12.11.2017, 13:00 Uhr bis Montag, 13.11.2017, 00:00 Uhr
   - Ort: iLab
