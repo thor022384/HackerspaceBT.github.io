@@ -1,8 +1,8 @@
 Events der nächsten 31 Tage:
 
-- imaginärraum Treffen
-  - Montag, 20.11.2017, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
+- Cryptocafe im TransitionHaus ([Info](https://transition-bayreuth.de/event/cryptocafe/))
+  - Montag, 20.11.2017, 19:00 Uhr bis 21:00 Uhr
+  - Ort: TransitionHaus
 - imaginärraum Treffen
   - Montag, 27.11.2017, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
