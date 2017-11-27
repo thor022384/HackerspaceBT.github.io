@@ -14,14 +14,6 @@ layout: default
 Wir haben uns im Januar 2017 getroffen, um einen Hackerspace zu gründen.
 Aktuell [treffen](#treffen) wir uns wöchentlich.
 
-## Alpha
-
-Im November halten wir eine [Alpha][alpha], also ein Wochenende, auf
-dem wir verschiedene Workshops und Vorträge halten und den Besuchern
-zeigen möchten, warum wir in Bayreuth einen Hackerspace brauchen. Die
-Alpha findet am zweiten Novemberwochenende statt. Mehr Infos gibt es
-auf der verlinkten Seite. Der Eintritt ist natürlich umsonst. :)
-
 ## Kontakt
 
 - In Person: Bei unseren [Treffen](#treffen)
@@ -42,6 +34,14 @@ Fachlehrer, Google Maps Link][map])
 Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
 in den zweiten Stock. Dort wieder rechts rum. Vor den Türen, die den Gang
 trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
+
+## News
+
+Falls Du nicht staendig vorbeikommen kannst, aber Dich fuer Workshops und
+andere Aktionen interessierst, kannst Du Dich ueber eine Mail an
+[news@lists.imaginaerraum.de](mailto:news@lists.imaginaerraum.de) anmelden. Es
+gibt noch keine Messwerte, aber es sollte nicht mehr als eine Mail pro Monat
+geben. :)
 
 ## Events
 Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
