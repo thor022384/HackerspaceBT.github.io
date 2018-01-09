@@ -1,9 +1,6 @@
 Events der nächsten 31 Tage:
 
 - imaginärraum Treffen
-  - Montag, 08.01.2018, 18:00 Uhr bis 23:00 Uhr
-  - Ort: iLab
-- imaginärraum Treffen
   - Montag, 15.01.2018, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
 - Plenum 
