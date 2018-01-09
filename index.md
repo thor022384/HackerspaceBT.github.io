@@ -39,7 +39,7 @@ trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
 
 Falls Du nicht staendig vorbeikommen kannst, aber Dich fuer Workshops und
 andere Aktionen interessierst, kannst Du Dich ueber eine Mail an
-[news@lists.imaginaerraum.de](mailto:news+subscribe@lists.imaginaerraum.de)
+[news+subscribe@lists.imaginaerraum.de](mailto:news+subscribe@lists.imaginaerraum.de)
 anmelden. Es gibt noch keine Messwerte, aber es sollte nicht mehr als eine Mail
 pro Monat geben. :)
 
