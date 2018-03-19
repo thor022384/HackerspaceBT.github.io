@@ -3,6 +3,12 @@ Events der nächsten 31 Tage:
 - imaginärraum Treffen
   - Montag, 19.03.2018, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
+- imaginärraum Treffen beim Nerdy Monday
+  - Montag, 19.03.2018, 19:00 Uhr bis Dienstag, 20.03.2018, 00:00 Uhr
+- imaginärraum Treffen beim Nerdy Monday
+  - Montag, 19.03.2018, 19:00 Uhr bis Dienstag, 20.03.2018, 00:00 Uhr
+  - Ort: RW2, siehe Link
+  - Beschreibung: http://www.bfm-bayreuth.de/?event=nerdy-mondays-coworking-fuer-alle-an-der-universitaet-bayreuth-6&event_date=2018-03-12
 - imaginärraum Treffen
   - Montag, 26.03.2018, 18:00 Uhr bis 23:00 Uhr
   - Ort: iLab
