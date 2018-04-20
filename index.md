@@ -26,7 +26,7 @@ Aktuell [treffen](#treffen) wir uns wöchentlich.
   Es gibt ein [Archiv][mailarchive].
 
 ## Treffen
-Montags um 18 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
+Freitags um 19 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
 Bayreuth, am Geschwister-Scholl-Platz 3, 95445 Bayreuth ([Staatsinstitut für
 Fachlehrer, Google Maps Link][map])
 
