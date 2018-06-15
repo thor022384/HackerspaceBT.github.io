@@ -26,14 +26,12 @@ Aktuell [treffen](#treffen) wir uns wöchentlich.
   Es gibt ein [Archiv][mailarchive].
 
 ## Treffen
-**Achtung, neue Adresse!**
-
+**Achtung, neue Adresse!**  
 Freitags um 19 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
 Bayreuth, Zapf-Gebaeude Haus 4, Ebene 3 (1. Stock), Nuernberger Str. 38, 95448 Bayreuth ([Google map][gmap], [Open street map][osmap]).
 
 ## Wegbeschreibung
-Falls der Eingang abgeschlossen ist, bei iR klingeln.
-
+Falls der Eingang abgeschlossen ist, bei iR klingeln.  
 Eingang Haus 4, Treppenhaus links, Ebene 3 (1. Stock), zweimal links,dem Gang folgen bis Raum 4.3.11 (links).
 
 ## News
