@@ -26,17 +26,15 @@ Aktuell [treffen](#treffen) wir uns wöchentlich.
   Es gibt ein [Archiv][mailarchive].
 
 ## Treffen
+**Achtung, neue Adresse!**
 Freitags um 19 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
-Bayreuth, am Geschwister-Scholl-Platz 3, 95445 Bayreuth ([Staatsinstitut für
-Fachlehrer, Google Maps Link][map])
+Bayreuth, Zapf-Gebäude Haus 4, Ebene 3 (1. Stock), Nürnberger Str. 38, 95448 Bayreuth ([Google map][gmap], [Open street map][osmap]).
 
 ## Wegbeschreibung
-Am Eingang des Gebäudes nach links in den Gang, dann rechts die Treppen hoch,
-in den zweiten Stock. Dort wieder rechts rum. Vor den Türen, die den Gang
-trennen, ist das iLab auf der linken Seite; davor steht eine Xbox.
+Falls der Eingang abgeschlossen ist, bei iR klingeln.
+Eingang Haus 4, Treppenhaus links, Ebene 3 (1. Stock), zweimal links,dem Gang folgen bis Raum 4.3.11 (links).
 
 ## News
-
 Falls Du nicht staendig vorbeikommen kannst, aber Dich fuer Workshops und
 andere Aktionen interessierst, kannst Du Dich ueber eine Mail an
 [news+subscribe@lists.imaginaerraum.de](mailto:news+subscribe@lists.imaginaerraum.de)
@@ -50,6 +48,7 @@ Auch über einen öffentlichen [ICS Kalender][icscal] erreichbar.
 
 [alpha]: {% link _posts/2017-10-05-alpha.md %}
 [icscal]: https://cal.imaginaerraum.de/davical/public.php/Users/imaginaerraum
-[map]: https://www.google.de/maps/place/Geschwister-Scholl-Platz+3,+95445+Bayreuth/@49.94829,11.5493186,17z/data=!3m1!4b1!4m5!3m4!1s0x47a1a2a5685d4085:0x82807222115f18bf!8m2!3d49.94829!4d11.55062
+[gmap]: https://goo.gl/maps/3sqvtdvjD352
+[osmap]: https://www.openstreetmap.org/?mlat=49.93292&mlon=11.59286#map=18/49.93292/11.59286
 [wiki]: https://imaginaerraum.de/wiki/
 [mailarchive]: https://lists.imaginaerraum.de
