@@ -32,7 +32,7 @@ Bayreuth, Zapf-Gebaeude Haus 4, Ebene 3 (1. Stock), Nuernberger Str. 38, 95448 B
 
 ## Wegbeschreibung
 Falls der Eingang abgeschlossen ist, bei iR klingeln.  
-Eingang Haus 4, Treppenhaus links, Ebene 3 (1. Stock), zweimal links,dem Gang folgen bis Raum 4.3.11 (links).
+Eingang Haus 4, Treppenhaus links, Ebene 3 (1. Stock), zweimal links, dem Gang folgen bis Raum 4.3.11 (links).
 
 ## News
 Falls Du nicht staendig vorbeikommen kannst, aber Dich fuer Workshops und
