@@ -2,12 +2,15 @@ Events der nächsten 31 Tage:
 
 - Imaginärraum Treffen
   - Freitag, 22.06.2018, 19:00 Uhr bis 23:00 Uhr
+  - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
+- Imaginärraum Treffen
+  - Freitag, 22.06.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Geschwister-Scholl-Platz 3, Bayreuth
 - Imaginärraum Treffen
   - Freitag, 22.06.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Nuernberger Str. 38, Bayreuth
 - Imaginärraum Treffen
-  - Freitag, 22.06.2018, 19:00 Uhr bis 23:00 Uhr
+  - Freitag, 29.06.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
 - Imaginärraum Treffen
   - Freitag, 29.06.2018, 19:00 Uhr bis 23:00 Uhr
@@ -16,7 +19,7 @@ Events der nächsten 31 Tage:
   - Freitag, 29.06.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Nuernberger Str. 38, Bayreuth
 - Imaginärraum Treffen
-  - Freitag, 29.06.2018, 19:00 Uhr bis 23:00 Uhr
+  - Freitag, 06.07.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
 - Imaginärraum Treffen
   - Freitag, 06.07.2018, 19:00 Uhr bis 23:00 Uhr
@@ -25,11 +28,14 @@ Events der nächsten 31 Tage:
   - Freitag, 06.07.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Nuernberger Str. 38, Bayreuth
 - Imaginärraum Treffen
-  - Freitag, 06.07.2018, 19:00 Uhr bis 23:00 Uhr
+  - Freitag, 13.07.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
 - Imaginärraum Treffen
   - Freitag, 13.07.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Geschwister-Scholl-Platz 3, Bayreuth
 - Imaginärraum Treffen
-  - Freitag, 13.07.2018, 19:00 Uhr bis 23:00 Uhr
+  - Freitag, 20.07.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
+- Imaginärraum Treffen
+  - Freitag, 20.07.2018, 19:00 Uhr bis 23:00 Uhr
+  - Ort: iLab, Geschwister-Scholl-Platz 3, Bayreuth
