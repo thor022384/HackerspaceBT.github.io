@@ -27,8 +27,8 @@ Aktuell [treffen](#treffen) wir uns wöchentlich.
 
 ## Treffen
 **Achtung, neue Adresse!**  
-Freitags um 19 Uhr im [iLab](#wegbeschreibung) der Medienwissenschaften Uni
-Bayreuth, Zapf-Gebaeude Haus 4, Ebene 3 (1. Stock), Nuernberger Str. 38, 95448 Bayreuth ([Google map][gmap], [Open street map][osmap]).
+Montags um 19 Uhr im [Game Innovation Lab](#wegbeschreibung) der Medienwissenschaften Uni
+Bayreuth, Zapf-Gebaeude Haus 4, Ebene 3 (1. Stock, Raum 4.3.11b), Nuernberger Str. 38, 95448 Bayreuth ([Google map][gmap], [Open street map][osmap]).
 
 ## Wegbeschreibung
 Falls der Eingang abgeschlossen ist, bei iR klingeln.  
