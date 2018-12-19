@@ -4,11 +4,17 @@ Events der nächsten 31 Tage:
   - Montag, 24.12.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
 - Imaginärraum Treffen
+  - Montag, 24.12.2018, 19:00 Uhr bis 23:00 Uhr
+- Imaginärraum Treffen
   - Montag, 31.12.2018, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
 - Imaginärraum Treffen
+  - Montag, 31.12.2018, 19:00 Uhr bis 23:00 Uhr
+- Imaginärraum Treffen
   - Montag, 07.01.2019, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
+- Imaginärraum Treffen
+  - Montag, 07.01.2019, 19:00 Uhr bis 23:00 Uhr
 - Imaginärraum Treffen
   - Montag, 14.01.2019, 19:00 Uhr bis 23:00 Uhr
   - Ort: iLab, Zapf-Gebäude 4, Nürnberger Straße 38
