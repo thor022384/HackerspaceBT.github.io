@@ -22,7 +22,7 @@ Aktuell [treffen](#treffen) wir uns wöchentlich.
 - Mailingliste zur Kommunikation mit mehreren Hackern: hackerspace-bayreuth auf
   lists.imaginaerraum.de. Um eingetragen zu werden, schreibt eine Mail mit
   beliebigem Betreff und Inhalt an
-  [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto:hackerspace-bayreuth+subscribe@lists.imaginaerraum.de).
+  [hackerspace-bayreuth+subscribe@lists.imaginaerraum.de](mailto:hackerspace-bayreuth%2Bsubscribe@lists.imaginaerraum.de).
   Es gibt ein [Archiv][mailarchive].
 
 ## Treffen
